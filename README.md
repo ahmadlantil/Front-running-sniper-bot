@@ -36,7 +36,3 @@ To run the bot, execute the following command:
 ```bash
 npm start
 ```
-
-## Disclaimer
-
-Please note that the use of this frontrunning bot is intended for educational purposes only because it doesn't have functionality to verify scam tokens or to frontrun only selected tokens. It is a proof of work and does not necessarily reflect the performance or functionality of a professional frontrunning bot. If you are looking for a reliable and professional frontrunning bot, please visit [FastlyBot](https://fastlybot.com/)
